@@ -1,0 +1,145 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/djtokyo/Desktop/DOS-Attack/contracts/Good.sol": {
+      "lastModificationDate": 1657018022859,
+      "contentHash": "c7bf771167c30068febc2a4aff485abf",
+      "sourceName": "contracts/Good.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "Good"
+      ]
+    },
+    "/Users/djtokyo/Desktop/MaliciousAttack/contracts/Attack.sol": {
+      "lastModificationDate": 1657033595434,
+      "contentHash": "dc1815e3e24853f8c4e3a4fd94ddcc65",
+      "sourceName": "contracts/Attack.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "Attack"
+      ]
+    },
+    "/Users/djtokyo/Desktop/MaliciousAttack/contracts/Good.sol": {
+      "lastModificationDate": 1657034502784,
+      "contentHash": "1ddd63fc008e95546d474c4c4c05b999",
+      "sourceName": "contracts/Good.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./Helper.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "Good"
+      ]
+    },
+    "/Users/djtokyo/Desktop/MaliciousAttack/contracts/Helper.sol": {
+      "lastModificationDate": 1657033379840,
+      "contentHash": "a5f84e4ec2cd9f55d5167a820815f67d",
+      "sourceName": "contracts/Helper.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [],
+      "artifacts": [
+        "Helper"
+      ]
+    }
+  }
+}
